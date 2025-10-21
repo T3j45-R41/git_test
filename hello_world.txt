@@ -1,0 +1,3 @@
+Today I am starting to 
+learn how git works for 
+the first time.
